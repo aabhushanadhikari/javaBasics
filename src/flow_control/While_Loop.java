@@ -6,7 +6,7 @@ public class While_Loop {
 	public static void main(String[] args) {
 		int i,rev=0,r;
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter the number you want ot reverse");
+		System.out.println("Enter the number you want to reverse");
 		i=sc.nextInt();
 		while(i!=0) {
 		r=i%10;
